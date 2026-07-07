@@ -1,3 +1,5 @@
+import com.worldcup.downloader.TournamentDownloader;
+
 public class WorldCupPipelineApplication {
 
     public static void main(String[] args) {
